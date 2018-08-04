@@ -7,6 +7,9 @@ imap <Tab> <Esc>
 set autoindent
 set noexpandtab
 
+set wildmenu
+set wildmode=longest:full,full
+
 set list
 set listchars=tab:▸\ ,trail:.
 
