@@ -4,3 +4,6 @@ imap <Tab> <Esc>
 
 nore ; :
 nore , ;
+
+set background=dark
+colorscheme solarized
