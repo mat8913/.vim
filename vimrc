@@ -4,6 +4,9 @@ set number
 set hlsearch
 imap <Tab> <Esc>
 
+set autoindent
+set noexpandtab
+
 set list
 set listchars=tab:▸\ ,trail:.
 
