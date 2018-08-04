@@ -1,5 +1,6 @@
 syntax on
 set directory=~/.vim/tmp//  " Trailing // is important, see :help directory
+set number
 imap <Tab> <Esc>
 
 nore ; :
