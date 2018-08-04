@@ -4,6 +4,9 @@ set number
 set hlsearch
 imap <Tab> <Esc>
 
+set list
+set listchars=tab:▸\ ,trail:.
+
 nore ; :
 nore , ;
 
