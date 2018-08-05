@@ -21,8 +21,6 @@ colorscheme solarized
 
 set laststatus=2
 set noshowmode
-python3 from powerline.vim import setup as powerline_setup
-python3 powerline_setup()
-python3 del powerline_setup
+set rtp+=~/.vim/powerline/powerline/bindings/vim
 
 autocmd FileType gitcommit setlocal textwidth=72 spell
