@@ -18,6 +18,7 @@ nore , ;
 
 set background=dark
 colorscheme solarized
+hi SpellBad cterm=underline
 
 set laststatus=2
 set noshowmode
