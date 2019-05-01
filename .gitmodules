@@ -4,3 +4,6 @@
 [submodule "powerline"]
 	path = powerline
 	url = https://github.com/powerline/powerline
+[submodule "typescript-vim"]
+	path = pack/all/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
