@@ -25,4 +25,5 @@ set noshowmode
 set rtp+=~/.vim/powerline/powerline/bindings/vim
 
 autocmd FileType gitcommit setlocal textwidth=72 spell
+autocmd FileType cabal setlocal tabstop=4 softtabstop=4 shiftwidth=4 expandtab
 autocmd FileType typescript setlocal tabstop=4 softtabstop=4 shiftwidth=4 expandtab
